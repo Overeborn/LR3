@@ -95,7 +95,7 @@ void task_geom_35_1()
 {
 	cout << ">>>>> CIRCLE PART <<<<<" << endl; // begin
 
-	double a, s_sec, s_seg;
+	flaot a, s_seg;
 	float x, y, xc, yc, r; // create variables 
 	bool a1, a2;
 
